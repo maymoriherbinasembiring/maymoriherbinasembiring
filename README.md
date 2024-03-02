@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maymoriherbinasembiring
 - 👀 I’m so much question about how and why things work in computer and AI
-- 🌱 I’m currently learning python,css and javascript
-- 💞️ I’m looking to collaborate on simple project
+- 🌱 I’m a newbie
 - 📫 maymorisembiring@gmail.com
 
 <!---
