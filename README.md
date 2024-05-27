@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maymoriherbinasembiring
-- 👀 I’m so much question about how and why things work in computer and AI
+- 👀 i'm curious about everything i see
 - 🌱 I’m a newbie
 - 📫 maymorisembiring@gmail.com
 
